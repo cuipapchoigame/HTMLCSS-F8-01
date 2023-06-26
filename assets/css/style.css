@@ -2,9 +2,15 @@
     box-sizing: border-box;
 }
 
+html, 
+body {
+    scroll-behavior: smooth;
+}
+
 html {
     --primary-color: #0F1B4C;
     font-size: 62.5%;
+
 }
 
 body {
