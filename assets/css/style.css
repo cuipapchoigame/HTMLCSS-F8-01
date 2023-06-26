@@ -100,11 +100,11 @@ a {
 }
 
 .hero .sub-title {
+    margin-top: 130px;
+    color: #687690;
+    font-size: 1.8rem;
     font-weight: 500;
-    font-size: 6.4rem;
-    line-height: 1.5;
-    letter-spacing: 0.01em;
-    color:#687690;
+    letter-spacing: 0.18px;
 }
 
 .hero .title{
